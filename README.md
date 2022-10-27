@@ -29,6 +29,7 @@ dependencies:
   geoflutterfire2:
     git: git://github.com/beerstorm-net/GeoFlutterFire2.git
 ```
+git://github.com/solace-owodaha/GeoFlutterFire2
 
 You should then run `flutter pub get` or update your packages in IntelliJ.
 
